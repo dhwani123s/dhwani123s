@@ -74,3 +74,19 @@ These skills have enabled me to tackle complex problems, execute tasks efficient
 ```diff
 + The images are downloaded and used thanks to https://unsplash.com/ and https://giphy.com/ websites. 🙂
 ```
+
+## 💼🎒 My Portfolio Overview:
+
+I encourage you to explore my machine learning and deep learning projects. The links are provided below, along with detailed descriptions at the bottom of this website. 
+
+<img src = "https://github.com/dhwani123s/gifs/blob/main/0*Yb_BsikIKFAtuKj9.gif" width = 1000 height = 400/>
+
+<h2 align = "center"> 🖥 My Web Scarping Projects </h2>
+
+| 📽️ [WebScarping + Data Vizualization of_Highest Grossing Movies](https://github.com/dhwani123s/WebScarping-DV_HighestGrossingMovies)| 📰 [Web-Scraping-Foreign-News-Headlines-With-ChatGPT](https://github.com/dhwani123s/Web-Scraping-With-GPT-Translate-Foreign-News-Headlines)|
+| :-:| :-:| 
+| [<img src = "https://github.com/dhwani123s/gifs/blob/main/1*y68HdcVbgTkcz8vtMypGBQ.jpeg" width = 500 height = 300/>](https://github.com/dhwani123s/WebScarping-DV_HighestGrossingMovies)| [<img src="https://github.com/dhwani123s/gifs/blob/main/Scraping-News-from-News-Sites-Easily-Full-Guide.jpeg" width = 500 height = 300/>](https://github.com/dhwani123s/Web-Scraping-With-GPT-Translate-Foreign-News-Headlines)
+
+|🍝 [Recipe Translation Tool](https://github.com/dhwani123s/RecipeTranslationTool)|
+| :-:| 
+| [<img src = "https://github.com/dhwani123s/gifs/blob/main/machine-translation.jpeg" width = 500 height = 300/>](https://github.com/dhwani123s/RecipeTranslationTool)|
