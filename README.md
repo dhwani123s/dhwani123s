@@ -77,7 +77,7 @@ These skills have enabled me to tackle complex problems, execute tasks efficient
 
 ## 💼🎒 My Portfolio Overview:
 
-I encourage you to explore my machine learning and deep learning projects. The links are provided below, along with detailed descriptions at the bottom of this website. 
+I encourage you to explore my projects. The links are provided below, along with detailed descriptions at the bottom of this website. 
 
 <img src = "https://github.com/dhwani123s/gifs/blob/main/0*Yb_BsikIKFAtuKj9.gif" width = 1000 height = 400/>
 
@@ -90,3 +90,10 @@ I encourage you to explore my machine learning and deep learning projects. The l
 |🍝 [Recipe Translation Tool](https://github.com/dhwani123s/RecipeTranslationTool)|
 | :-:| 
 | [<img src = "https://github.com/dhwani123s/gifs/blob/main/machine-translation.jpeg" width = 500 height = 300/>](https://github.com/dhwani123s/RecipeTranslationTool)|
+
+<h2 align = "center"> 🖥 My SQL Projects</h2>
+
+|🍝 [Learn SQL - A 31 Tutotial Guide](https://github.com/dhwani123s/SQL_Guide/tree/main)|
+| :-:| 
+| [<img src = "https://github.com/dhwani123s/gifs/blob/main/kura-5-tricky-sql-queries-solved-1.jpeg" width = 500 height = 300/>](https://github.com/dhwani123s/SQL_Guide/tree/main)|
+
