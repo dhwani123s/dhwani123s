@@ -103,3 +103,9 @@ I encourage you to explore my projects. The links are provided below, along with
 | :-:| :-:| 
 | [<img src = "https://github.com/dhwani123s/Images/blob/main/1631788301339.jpeg" width = 500 height = 300/>](https://github.com/dhwani123s/Stock_Forecasting)|[ <img src = "https://github.com/dhwani123s/Images/blob/main/customer-segmentation-strategy.jpeg" width = 500 height = 300/>](https://github.com/dhwani123s/Customer_Segmentation/tree/main)
 
+<h2 align = "center"> 🖥 My Python Game</h2>
+
+|🖥️ [Alien Invasion - PyGame](https://github.com/dhwani123s/Alien-Invasion/tree/main)|
+| :-:| 
+| [<img src = "https://github.com/dhwani123s/Images/blob/main/1*cODXPPIbi30xf-F2taiYfw.png" width = 500 height = 300/>](https://github.com/dhwani123s/Alien-Invasion/tree/main)|
+
