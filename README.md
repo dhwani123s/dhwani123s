@@ -16,7 +16,7 @@ I have *4+ years* of experience building and deploying machine learning and deep
 
 Furthermore, I have a strong practical and theoretical experience in __Business Analytics__ and __Business Design__. 
 
-🔭 Below are some of the companies I have worked as an Analyst, a Business Development Trainee and Research Assistant:
+🔭 Below are some of the companies I have worked as an Analyst, Business Development Trainee and Research Assistant:
 
 * *Paramount Global*
 * *Emerson Electric Co*
