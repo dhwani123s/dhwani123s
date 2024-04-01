@@ -10,7 +10,7 @@ I believe that AI is the most transformative technology today, with the power to
 
 <h2>  About Me 👨‍🎓💼: </h2>
 
-I hold a Masters Degree in Management Of Technology at [__New York University - Tandon School of Engineering__](https://engineering.nyu.edu).
+I am working towards a Masters Degree in Management Of Technology at [__New York University - Tandon School of Engineering__](https://engineering.nyu.edu).
 
 I have *4+ years* of experience building and deploying machine learning and deep learning models. 
 
