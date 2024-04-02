@@ -6,7 +6,7 @@ I'm passionate about __Emerging Technology__, __Machine Learning__, __Data Scien
 
 I believe that AI is the most transformative technology today, with the power to tackle global challenges and enrich lives. 
 
-![](https://github.com/dhwani123s/gifs/blob/main/Intro.png)
+![](https://github.com/dhwani123s/Images/blob/main/intro.gif)
 
 <h2>  About Me 👨‍🎓💼: </h2>
 
