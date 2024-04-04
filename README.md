@@ -117,6 +117,6 @@ I encourage you to explore my projects. The links are provided below, along with
 
 &emsp;&emsp; 🏢👨‍💻 [__Graduate Assistant__](https://github.com/dhwani123s/GraduateAssistant) | [__NYU Rory Meyers__](https://nursing.nyu.edu) [*Aug 2022 - On Going*]
 
-&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Business Development Internship Trainee__](https://github.com/dhwani123s/EmersonElectric) | [__Emerson Automation Solutions - Emerson Electric__](https://www.emerson.com/en-in) [*Jan 2022 - Apr 2022*]
+&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Business Development Internship Trainee__](https://github.com/dhwani123s/EmersonElectric) | [__Emerson Electric__](https://www.emerson.com/en-in) [*Jan 2022 - Apr 2022*]
 
 &emsp;&emsp; 🧪👨‍🔬 [__Research Assistant__](https://github.com/dhwani123s/Epileptic-Seizure-Detection) | [__Indian Institute of Technology, Mandi (IIT Mandi)__](https://www.iitmandi.ac.in) [*Jul 2021 - Sept 2021*]
