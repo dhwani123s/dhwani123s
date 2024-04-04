@@ -109,3 +109,14 @@ I encourage you to explore my projects. The links are provided below, along with
 | :-:| 
 | [<img src = "https://github.com/dhwani123s/Images/blob/main/1*cODXPPIbi30xf-F2taiYfw.png" width = 500 height = 300/>](https://github.com/dhwani123s/Alien-Invasion/tree/main)|
 
+## 🖥 My Work Experience 
+
+&emsp;&emsp; 🏢👨‍💻 [__Analytics Intern__](https://github.com/dhwani123s/PARA-Analyst) | [__Paramount Global,__](https://www.paramount.com) [*July 2023 - Dec 2023*]
+
+&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Demand Analyst__](https://github.com/dhwani123s/NYU_Langone) | [__NYU Langone__](https://nyulangone.org/locations/nyu-langone-hospital-brooklyn?cid=syn_yext&y_entity_id=1005&y_source=1_MTUzMDE0NjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D) [*Jan 2024 - May 2024*]
+
+&emsp;&emsp; 🏢👨‍💻 [__Graduate Assistant__](https://github.com/dhwani123s/GraduateAssistant) | [__NYU Rory Meyers__](https://nursing.nyu.edu) [*Aug 2022 - On Going*]
+
+&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Business Development Internship Trainee__](https://github.com/dhwani123s/EmersonElectric) | [__Emerson Automation Solutions - Emerson Electric__](https://www.emerson.com/en-in) [*Jan 2022 - Apr 2022*]
+
+&emsp;&emsp; 🧪👨‍🔬 [__Research Assistant__](https://github.com/dhwani123s/Epileptic-Seizure-Detection) | [__Indian Institute of Technology, Mandi (IIT Mandi)__](https://www.iitmandi.ac.in) [*Jul 2021 - Sept 2021*]
