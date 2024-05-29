@@ -81,6 +81,19 @@ I encourage you to explore my projects. The links are provided below, along with
 
 <img src = "https://github.com/dhwani123s/gifs/blob/main/0*Yb_BsikIKFAtuKj9.gif" width = 1000 height = 400/>
 
+<h2 align = "center"> 🖥 My Machine Learning Projects</h2>
+
+|📈 [Stock Forecasting](https://github.com/dhwani123s/Stock_Forecasting)|👥[Customer Segmentation](https://github.com/dhwani123s/Customer_Segmentation/tree/main)
+| :-:| :-:| 
+| [<img src = "https://github.com/dhwani123s/Images/blob/main/1631788301339.jpeg" width = 500 height = 300/>](https://github.com/dhwani123s/Stock_Forecasting)|[ <img src = "https://github.com/dhwani123s/Images/blob/main/customer-segmentation-strategy.jpeg" width = 500 height = 300/>](https://github.com/dhwani123s/Customer_Segmentation/tree/main)
+
+<h2 align = "center"> 🖥 My Python Game</h2>
+
+|🖥️ [Alien Invasion - PyGame](https://github.com/dhwani123s/Alien-Invasion/tree/main)|
+| :-:| 
+| [<img src = "https://github.com/dhwani123s/Images/blob/main/1*cODXPPIbi30xf-F2taiYfw.png" width = 500 height = 300/>](https://github.com/dhwani123s/Alien-Invasion/tree/main)|
+
+
 <h2 align = "center"> 🖥 My Web Scarping Projects </h2>
 
 | 📽️ [WebScarping + Data Vizualization of_Highest Grossing Movies](https://github.com/dhwani123s/WebScarping-DV_HighestGrossingMovies)| 📰 [Web-Scraping-Foreign-News-Headlines-With-ChatGPT](https://github.com/dhwani123s/Web-Scraping-With-GPT-Translate-Foreign-News-Headlines)|
@@ -96,18 +109,6 @@ I encourage you to explore my projects. The links are provided below, along with
 |🖥️ [Learn SQL - A 31 Tutotial Guide](https://github.com/dhwani123s/SQL_Guide/tree/main)|
 | :-:| 
 | [<img src = "https://github.com/dhwani123s/gifs/blob/main/kura-5-tricky-sql-queries-solved-1.jpeg" width = 500 height = 300/>](https://github.com/dhwani123s/SQL_Guide/tree/main)|
-
-<h2 align = "center"> 🖥 My Machine Learning Projects</h2>
-
-|📈 [Stock Forecasting](https://github.com/dhwani123s/Stock_Forecasting)|👥[Customer Segmentation](https://github.com/dhwani123s/Customer_Segmentation/tree/main)
-| :-:| :-:| 
-| [<img src = "https://github.com/dhwani123s/Images/blob/main/1631788301339.jpeg" width = 500 height = 300/>](https://github.com/dhwani123s/Stock_Forecasting)|[ <img src = "https://github.com/dhwani123s/Images/blob/main/customer-segmentation-strategy.jpeg" width = 500 height = 300/>](https://github.com/dhwani123s/Customer_Segmentation/tree/main)
-
-<h2 align = "center"> 🖥 My Python Game</h2>
-
-|🖥️ [Alien Invasion - PyGame](https://github.com/dhwani123s/Alien-Invasion/tree/main)|
-| :-:| 
-| [<img src = "https://github.com/dhwani123s/Images/blob/main/1*cODXPPIbi30xf-F2taiYfw.png" width = 500 height = 300/>](https://github.com/dhwani123s/Alien-Invasion/tree/main)|
 
 ## 🖥 My Work Experience 
 
