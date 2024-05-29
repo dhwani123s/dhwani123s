@@ -87,7 +87,7 @@ I encourage you to explore my projects. The links are provided below, along with
 | :-:| :-:| 
 | [<img src = "https://github.com/dhwani123s/Images/blob/main/1631788301339.jpeg" width = 500 height = 300/>](https://github.com/dhwani123s/Stock_Forecasting)|[ <img src = "https://github.com/dhwani123s/Images/blob/main/customer-segmentation-strategy.jpeg" width = 500 height = 300/>](https://github.com/dhwani123s/Customer_Segmentation/tree/main)
 
-|📈 [Patient_Readmission_Predictor](https://github.com/dhwani123s/Patient_Readmission_PredictorRate)|👥[Titanic Logistic Regression Model](https://github.com/dhwani123s/Titanic-Logistic-regression-Model/tree/main)
+|🏥[Patient_Readmission_Predictor](https://github.com/dhwani123s/Patient_Readmission_PredictorRate)|🚢[Titanic Logistic Regression Model](https://github.com/dhwani123s/Titanic-Logistic-regression-Model/tree/main)
 | :-:| :-:| 
 | [<img src = "https://github.com/dhwani123s/Images/blob/main/Focus_hospital_111921.jpg" width = 500 height = 300/>](https://github.com/dhwani123s/Patient_Readmission_PredictorRate)|[ <img src = "https://github.com/dhwani123s/Images/blob/main/titanic-sinking.jpg" width = 500 height = 300/>](https://github.com/dhwani123s/Titanic-Logistic-regression-Model/tree/main)
 
