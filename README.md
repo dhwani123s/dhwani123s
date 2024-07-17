@@ -6,8 +6,6 @@ I'm passionate about __Emerging Technology__, __Machine Learning__, __Data Scien
 
 I believe that AI is the most transformative technology today, with the power to tackle global challenges and enrich lives. 
 
-![](https://github.com/dhwani123s/Images/blob/main/intro.gif)
-
 <h2>  About Me 👨‍🎓💼: </h2>
 
 I am working towards a Masters Degree in Management Of Technology at [__New York University - Tandon School of Engineering__](https://engineering.nyu.edu).
