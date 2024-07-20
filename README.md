@@ -79,6 +79,12 @@ I encourage you to explore my projects. The links are provided below, along with
 
 <img src = "https://github.com/dhwani123s/gifs/blob/main/0*Yb_BsikIKFAtuKj9.gif" width = 1000 height = 400/>
 
+<h2 align = "center"> 🖥 NLP Projects </h2>
+
+|🖥️ [NER_FinacialText](https://github.com/dhwani123s/NER_FinacialText)|
+| :-:| 
+| [<img src = "https://github.com/dhwani123s/Images/blob/main/NLP1.jpeg" width = 500 height = 300/>](https://github.com/dhwani123s/NER_FinacialText)|
+
 <h2 align = "center"> 🖥 My Machine Learning Projects</h2>
 
 |📈 [Stock Forecasting](https://github.com/dhwani123s/Stock_Forecasting)|👥[Customer Segmentation](https://github.com/dhwani123s/Customer_Segmentation/tree/main)
