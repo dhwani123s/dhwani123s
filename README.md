@@ -81,9 +81,9 @@ I encourage you to explore my projects. The links are provided below, along with
 
 <h2 align = "center"> 🖥 NLP Projects </h2>
 
-|🖥️ [NER_FinacialText](https://github.com/dhwani123s/NER_FinacialText)|
-| :-:| 
-| [<img src = "https://github.com/dhwani123s/Images/blob/main/NLP1.jpeg" width = 500 height = 300/>](https://github.com/dhwani123s/NER_FinacialText)|
+|🖥️ [NER_FinacialText](https://github.com/dhwani123s/NER_FinacialText)|🌋[Classifying-Disaster-Related-Tweets](https://github.com/dhwani123s/Classifying-Disaster-Related-Tweets-Using-NLP-and-LSTM)
+| :-:| :-:| 
+| [<img src = "https://github.com/dhwani123s/Images/blob/main/NLP1.jpeg" width = 500 height = 300/>](https://github.com/dhwani123s/NER_FinacialText)|[ <img src = "https://github.com/dhwani123s/Images/blob/main/NLP_ND.webp" width = 500 height = 300/>](https://github.com/dhwani123s/Classifying-Disaster-Related-Tweets-Using-NLP-and-LSTM)
 
 <h2 align = "center"> 🖥 My Machine Learning Projects</h2>
 
